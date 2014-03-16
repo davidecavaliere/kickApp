@@ -1,0 +1,1 @@
+(function(){define(["./markup.txt!text","jquery","./responsive.css!"],function(a,b){return b("#ads").html("<br>"+a)})}).call(this)

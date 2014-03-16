@@ -1,0 +1,1 @@
+(function(){define(["./module"],function(a){return a.controller("AdminMenuCtrl",["$scope","$firebase","ngProgress",function(a,b,c){}])})}).call(this)

@@ -1,0 +1,1 @@
+(function(){define(["./markup.txt!text"],function(a){return $("#disqus").html(a)})}).call(this)

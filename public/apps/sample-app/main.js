@@ -1,0 +1,1 @@
+(function(){var a;require("./sample-app.css!"),a=require("jquery"),exports.attach=function(b,c){return setTimeout(function(){return a(b).html("<p>Dynamic HTML changes2</p>")},c.timeout)}}).call(this)

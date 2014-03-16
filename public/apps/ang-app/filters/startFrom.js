@@ -1,0 +1,1 @@
+(function(){define(["./module"],function(a){return a.filter("startFrom",[function(){return function(a,b){var c;return b=+b,c=Object.prototype.toString.call(a)==="[object Array]"?a.slice(b):a}}])})}).call(this)

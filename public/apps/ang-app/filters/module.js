@@ -1,0 +1,1 @@
+(function(){define(["angular"],function(a){return a.module("app.filters",[])})}).call(this)
